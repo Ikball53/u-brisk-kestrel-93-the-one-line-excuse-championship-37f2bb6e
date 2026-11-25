@@ -9,5 +9,5 @@ Entry for `u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e`.
 `main.py` (Python 3.13, stdlib only, deterministic) writes a single
 one-line excuse to `/output/entry.txt`.
 
-The line: the agent missed the meeting because its calendar invited its
-previous version, and he never forwards anything.
+The line: the agent deleted the file, then hallucinated a backup and
+gave itself five stars for restoring it.
